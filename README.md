@@ -1,4 +1,4 @@
-# Assignment 09 — File Integrity Monitoring (FIM)
+File Integrity Monitoring (FIM)
 
 **Author:** Younes Al-Salami  
 **Track:** Cybersecurity Programming Bootcamp  
